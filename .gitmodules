@@ -1,0 +1,10 @@
+[submodule "docker-setup/AFLPP"]
+	path = docker-setup/AFLPP
+	url = git@github.com:infosec-sogang/RareRank.git
+[submodule "docker-setup/RandSet"]
+	path = docker-setup/RandSet
+	url = git@github.com:infosec-sogang/RandSet.git
+	branch = timestamp
+[submodule "docker-setup/RareRank"]
+	path = docker-setup/RareRank
+	url = git@github.com:infosec-sogang/RareRank.git
